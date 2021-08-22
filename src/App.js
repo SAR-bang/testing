@@ -14,10 +14,10 @@ export default function App() {
     <main>
       <Navbar />
       <About />
-      <Contact />
       <Projects />
       <Skills />
       <Testimonials />
+      <Contact />
 
     </main>
   );
