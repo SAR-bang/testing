@@ -3,31 +3,31 @@ export const projects = [
     title: "MeroAgro",
     subtitle: "Full Stack with ml",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Check the app in github Simple easy for beginners.",
     image: "./project-1.gif",
     link: "https://adarsha-regmi.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Ml python library for multiple sklearn testing",
+    subtitle: "Python testing models",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Check the different models and test them",
     image: "./project-2.gif",
     link: "https://adarsha-regmi.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Mlops with RUST",
+    subtitle: "RUST and mlops",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "",
     image: "./project-3.gif",
     link: "https://adarsha-regmi.com",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Wait for update",
+    subtitle: "Still in production",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Will let you know it is still under construction",
     image: "./project-4.gif",
     link: "https://adarsha-regmi.com",
   },
@@ -36,16 +36,16 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Dont set a path. you will end in known destination.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    name: "Leonard",
+    company: "Big Bang",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "I dont know how to play dungeon.",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
+    name: "Identify",
     company: "Dooble.io",
   },
 ];
@@ -55,6 +55,9 @@ export const skills = [
   "Python",
   "Sanic",
   "Django",
+  "FASTAPI",
   "GraphQL",
   "Deep learning",
+  "RUST",
+  "LLM"
 ];
