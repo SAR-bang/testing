@@ -10,7 +10,8 @@ export default function About() {
                         <br className="hidden lg:inline-block" />Get Rusty  and build solutions
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        Not Better than <a href="www.sarojpaudyal.com.np">Saroz</a>
+                        Not Better than
+                        <a href="https://www.sarojpaudyal.com.np" onclick="window.open('www.sarojpaudyal.com.np', '_blank'); return false;">Saroj</a>
                     </p>
                     <div className="flex justify-center">
                         <h3
