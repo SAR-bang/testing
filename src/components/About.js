@@ -12,7 +12,7 @@ export default function About() {
                     <p className="mb-8 leading-relaxed">
                         Not Better than
                         <a class="text-blue-500 underline" href="https://patrickcollison.com/"
-                            target="_blank" rel="noopener noreferrer">https://patrickcollison.com/</a>
+                            target="_blank" rel="noopener noreferrer"> https://patrickcollison.com/</a>
 
                     </p>
                     <div className="flex justify-center">
