@@ -11,7 +11,8 @@ export default function About() {
                     </h1>
                     <p className="mb-8 leading-relaxed">
                         Not Better than
-                        <a href="https://www.sarojpaudyal.com.np" target="_blank" rel="noopener noreferrer"> Saroj</a>
+                        <a class="text-blue-500 underline" href="https://patrickcollison.com/"
+                            target="_blank" rel="noopener noreferrer">https://patrickcollison.com/</a>
 
                     </p>
                     <div className="flex justify-center">
