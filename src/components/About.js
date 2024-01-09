@@ -12,6 +12,8 @@ export default function About() {
                     <p className="mb-8 leading-relaxed">
                         Not Better than
                         <a href="https://www.sarojpaudyal.com.np" onclick="window.open('www.sarojpaudyal.com.np', '_blank'); return false;">Saroj</a>
+                        <a href="https://www.sarojpaudyal.com.np" target="_blank" rel="noopener noreferrer"> Saroj</a>
+
                     </p>
                     <div className="flex justify-center">
                         <h3
